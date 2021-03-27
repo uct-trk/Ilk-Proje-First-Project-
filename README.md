@@ -1,2 +1,2 @@
-# genesis
+# İlk proje
 new repository
